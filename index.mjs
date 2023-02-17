@@ -101,6 +101,7 @@ ${generateLicenseText(license)}
 ${contributing}
 
 ## Tests
+
 ${tests}
 
 ## Questions
