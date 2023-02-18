@@ -30,10 +30,10 @@ URL: https://github.com/42-djc/readMeGenerator
 
 Run the file from the terminal using "node index.mjs" then follow the "inquirer" prompts in the terminal.  The tool will save the responses and use to populate the README template and "fs" will save the text as a new .md file.
 
-See demo GIF or video (no sound) showing the launch, prompts, data input, the README output with responses, badges and the ToC with hyperlinks:
+See demo [GIF](./demo.gif) or [VIDEO](./demo.mp4) (no sound) showing the launch, prompts, data input, the README output with responses, badges and the ToC with hyperlinks:
 
-[GIF](./demo.gif)
-[VIDEO](./demo.mp4)
+![GIF](demo.gif) / ! [](demo.gif)
+
 
 ## License
 
