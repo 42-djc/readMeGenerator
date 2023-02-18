@@ -1,5 +1,3 @@
-
-
 # README Generator
 
 ## Project Description
@@ -24,11 +22,18 @@ By using inquirer and fs together, this tool automates the process of creating a
 
 ## Installation
 
-This project requires Node.js and NPM to be installed on your machine
+This project requires Node.js and NPM to be installed on your machine. 
+
+URL: https://github.com/42-djc/readMeGenerator
 
 ## Usage
 
-Run the file from the terminal using "node index.mjs" then follow the prompts.
+Run the file from the terminal using "node index.mjs" then follow the "inquirer" prompts in the terminal.  The tool will save the responses and use to populate the README template and "fs" will save the text as a new .md file.
+
+See demo GIF or video (no sound) showing the launch, prompts, data input, the README output with responses, badges and the ToC with hyperlinks:
+
+[GIF](./demo.gif)
+[VIDEO](./demo.mp4)
 
 ## License
 
